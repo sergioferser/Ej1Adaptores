@@ -32,6 +32,14 @@
         android:onClick="onClikBtn"
         />
 
+    <Button
+        android:id="@+id/btnSpinnerFromResources"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Spinner como recurso mas adaptador"
+        android:onClick="onClikBtn"
+        />
+
 
 
 

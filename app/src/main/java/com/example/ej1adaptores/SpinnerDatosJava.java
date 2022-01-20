@@ -39,7 +39,8 @@ public class SpinnerDatosJava extends AppCompatActivity {
                 String seleccion1 = spinner.getSelectedItem().toString();
                 //otra forma de obtener el item seleccionado
                 String seleccion2 = adapterView.getItemAtPosition(i).toString();
-                Toast.makeText(SpinnerDatosJava.this,"Estamos en "+ spinner.getSelectedItem().toString()+ "\nseleccion "+ seleccion2,Toast.LENGTH_LONG).show();
+                Toast.makeText(SpinnerDatosJava.this,"Estamos en "
+                        + spinner.getSelectedItem().toString()+ "\nseleccion "+ seleccion2,Toast.LENGTH_LONG).show();
 
             }
 

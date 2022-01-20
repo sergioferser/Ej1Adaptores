@@ -29,6 +29,9 @@ public class MainActivity extends AppCompatActivity {
             case R.id.btnSpinnerDatos:
                 i.setClass(this, SpinnerDatosJava.class);
                 break;
+            case R.id.btnSpinnerFromResources:
+                i.setClass(this, SpinnerFromResourcesActvity.class);
+                break;
 
 
         }

@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Ej1Adaptores">
         <activity
+            android:name=".SpinnerFromResourcesActvity"
+            android:exported="false" />
+        <activity
             android:name=".SpinnerDatosJava"
             android:exported="false" />
         <activity
