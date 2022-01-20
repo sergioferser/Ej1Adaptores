@@ -15,31 +15,20 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-
-
-
     public void onClikBtn(View view) {
 
         Intent i = new Intent();
 
-        switch(view.getId()){
+        switch (view.getId()) {
 
             case R.id.btnSpinner:
-                i.setClass(this, SpinnerActivity.class );
+                i.setClass(this, SpinnerActivity.class);
 
                 break;
 
-
-
-
-
-
-
-
-
-
-
-
+            case R.id.btnSpinnerDatos:
+                i.setClass(this, SpinnerDatosJava.class);
+                break;
 
 
         }
