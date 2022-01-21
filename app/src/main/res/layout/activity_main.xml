@@ -39,6 +39,27 @@
         android:text="Spinner como recurso mas adaptador"
         android:onClick="onClikBtn"
         />
+    <Button
+        android:id="@+id/btnSpinnerDinamicoFake"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Spinner Dinamico Fake"
+        android:onClick="onClikBtn"
+        />
+    <Button
+        android:id="@+id/btnSpinnerDinamicoReal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Spinner Dinamico Real"
+        android:onClick="onClikBtn"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Salir"
+        android:id="@+id/btnSalir"
+        android:onClick="onClikBtn"
+        />
 
 
 

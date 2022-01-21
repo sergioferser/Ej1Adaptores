@@ -23,20 +23,35 @@ public class MainActivity extends AppCompatActivity {
 
             case R.id.btnSpinner:
                 i.setClass(this, SpinnerActivity.class);
-
+                startActivity(i);
                 break;
 
             case R.id.btnSpinnerDatos:
                 i.setClass(this, SpinnerDatosJava.class);
+                startActivity(i);
                 break;
+
             case R.id.btnSpinnerFromResources:
                 i.setClass(this, SpinnerFromResourcesActvity.class);
+                startActivity(i);
                 break;
 
 
+            case R.id.btnSpinnerDinamicoFake:
+                i.setClass(this,SpinnerDinamicoFake.class);
+                startActivity(i);
+                break;
+
+            case R.id.btnSpinnerDinamicoReal:
+                i.setClass(this,SpinnerDinamicoReal.class);
+                startActivity(i);
+                break;
+
+            case R.id.btnSalir:
+                finish();
+                break;
         }
 
-        startActivity(i);
 
     }
 }
