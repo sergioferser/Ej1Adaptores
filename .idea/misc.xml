@@ -3,10 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/a13sergiofs/Desktop/Ej1Adaptores/app/src/main/res/layout/activity_list_personalida_v2.xml" value="0.26856884057971014" />
+        <entry key="..\:/Users/a13sergiofs/Desktop/Ej1Adaptores/app/src/main/res/layout/activity_list_view.xml" value="0.276268115942029" />
+        <entry key="..\:/Users/a13sergiofs/Desktop/Ej1Adaptores/app/src/main/res/layout/activity_lista_personalizada_v3.xml" value="0.276268115942029" />
         <entry key="..\:/Users/a13sergiofs/Desktop/Ej1Adaptores/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
         <entry key="..\:/Users/a13sergiofs/Desktop/Ej1Adaptores/app/src/main/res/layout/activity_spinner_dinamico_fake.xml" value="0.2957427536231884" />
         <entry key="..\:/Users/a13sergiofs/Desktop/Ej1Adaptores/app/src/main/res/layout/activity_spinner_dinamico_real.xml" value="0.20520833333333333" />
         <entry key="..\:/Users/a13sergiofs/Desktop/Ej1Adaptores/app/src/main/res/layout/activity_spinner_from_resources_actvity.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/a13sergiofs/Desktop/Ej1Adaptores/app/src/main/res/layout/fila_con_imagen_diferente.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/a13sergiofs/Desktop/Ej1Adaptores/app/src/main/res/layout/fila_simple.xml" value="0.276268115942029" />
+        <entry key="..\:/Users/a13sergiofs/Desktop/Ej1Adaptores/app/src/main/res/layout/fila_simplev3.xml" value="0.276268115942029" />
         <entry key="..\:/Users/a20martincm/AndroidStudioProjects/Ej1Adaptores/app/src/main/res/layout/activity_main.xml" value="0.2115036231884058" />
         <entry key="..\:/Users/a20martincm/AndroidStudioProjects/Ej1Adaptores/app/src/main/res/layout/activity_spinner.xml" value="0.2957427536231884" />
         <entry key="..\:/Users/a20martincm/AndroidStudioProjects/Ej1Adaptores/app/src/main/res/layout/activity_spinner_datos_java.xml" value="0.2957427536231884" />

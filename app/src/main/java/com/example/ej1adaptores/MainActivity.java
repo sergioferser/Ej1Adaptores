@@ -47,6 +47,23 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(i);
                 break;
 
+            case R.id.btnListView:
+                i.setClass(this, ListView_activity.class);
+                startActivity(i);
+                break;
+
+            case R.id.btnListPersonalizada:
+                i.setClass(this, ListaPersonalizada.class);
+                startActivity(i);
+                break;
+
+            case R.id.btnListPersonalizada2:
+                i.setClass(this, ListPersonalidaV2.class);
+                startActivity(i);
+                break;
+            case R.id.btnListPersonalizada3:
+                i.setClass(this, ListaPersonalizadaV3.class);
+                startActivity(i);
             case R.id.btnSalir:
                 finish();
                 break;

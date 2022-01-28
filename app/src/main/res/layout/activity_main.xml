@@ -54,6 +54,35 @@
         android:onClick="onClikBtn"
         />
     <Button
+        android:id="@+id/btnListView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ListView"
+        android:onClick="onClikBtn"
+        />
+    <Button
+        android:id="@+id/btnListPersonalizada"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="List personalida"
+        android:onClick="onClikBtn"
+        />
+
+    <Button
+        android:id="@+id/btnListPersonalizada2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="List personalida 2"
+        android:onClick="onClikBtn"
+        />
+    <Button
+        android:id="@+id/btnListPersonalizada3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="List personalida 3"
+        android:onClick="onClikBtn"
+        />
+    <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Salir"

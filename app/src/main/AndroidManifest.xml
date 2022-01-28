@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Ej1Adaptores">
         <activity
+            android:name=".ListaPersonalizadaV3"
+            android:exported="false" />
+        <activity
+            android:name=".ListPersonalidaV2"
+            android:exported="false" />
+        <activity
+            android:name=".ListaPersonalizada"
+            android:exported="false" />
+        <activity
+            android:name=".ListView_activity"
+            android:exported="false" />
+        <activity
             android:name=".SpinnerFromResourcesActvity"
             android:exported="false" />
         <activity
